@@ -2,53 +2,79 @@
 
 layout: col-sidebar
 title: OWASP Fukushima
-tags: example-tag
+tags: fukushima
 level: 0
 
 region: Asia/Pacific
 
-auto-migrated: 1
-
 ---
 
+# OWASP Fukushimaチャプターへようこそ
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+OWASP Fukushimaでは、社会人だけではなく学生のための啓蒙を行なっています。学生の目線からWebセキュリティを考えたり、教育、インターン、コンファレンスのボランティア、学校での啓蒙活動、また会津大学発のベンチャー企業などの協力を得て、提言などにつながっていければと考えています。
 
-{front matter for this file}
+## 過去のイベント
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+### 2020年2月18日
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+* [OWASP Fukushima Night 「情報セキュリティ10大脅威2020」を読み解く勉強会](https://owasp-fukushima.connpass.com/event/166666/)
+* 場所：株式会社Eyes, JAPAN
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+### 2019年12月15日
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+* [MINI Hardening Project #3.5 最速報告会@OWASP Fukushima 開催](https://owasp-fukushima.connpass.com/event/157000/)
+* 場所：株式会社Eyes, JAPAN
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+### 2019年12月14日
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+* [MINI Hardening Project #3.5@OWASP Kansai 福島サテライト会場開催](https://owasp-fukushima.connpass.com/event/155918/)
+* 場所：株式会社Eyes, JAPAN
 
-```
-{info.md}
+### 2019年9月19日
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+* [インシデント対応競技会「Hardening II SU」イベントレポート](https://owasp-fukushima.connpass.com/event/145080/)
+* 場所：株式会社Eyes, JAPAN
 
-{leaders.md}
+### 2019年8月19日
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+* [WASNight 2019 Summer FUKUSHIMA Satellite](https://owasp-fukushima.connpass.com/event/142725/)
+* 場所：株式会社Eyes, JAPAN
 
--->
+### 2019年3月11日
+
+* [OWASP Night 2019/03 FUKUSHIMA Satellite](https://owasp-fukushima.connpass.com/event/123902/)
+* 場所：株式会社Eyes, JAPAN
+
+### 2018年7月30日
+
+* OWASP Fukushima Night：OWASP Night 2018/7 サテライト中継開催
+* 場所：株式会社Eyes, JAPAN
+
+### 2017年12月19日
+
+* [OWASP Fukushima Night：Hardening 2017 Fesに参加したTeam EJ + Naminekoのメンバーによる報告会](https://owasp-fukushima.connpass.com/event/74921/)
+* 場所：会津大学UBICの3Dシアタールーム
+
+### 2017年9月30日
+
+* [OWASP DAY Fukushima: セキュア開発トレーニング「2017OWASP World Tour Tokyo」サテライト開催](https://owasp-fukushima.connpass.com/event/66332/)
+* 場所：株式会社Eyes, JAPAN
+
+### 2017年5月6日
+
+* 神戸版SXSWイベント、078にて、Eyes, JAPAN/OWASP Fukushimaの山寺が他のOWASPリーダーとともに「OWASP meets KOBE ～コピペで作るシステムの終焉とシフトレフト」(14:40〜15:50)に登壇
+* 場所：神戸KIITO
+
+### 2017年3月6日
+
+* IoT/AI FUKUSHIMA セキュリティハッカソンにてIoT/AI/医療におけるセキュリティ/セキュア開発の講演/ハッカソン
+* 場所：アルツ磐梯スキー場内 IoT/AI FUKUSHIMA セキュリティハッカソン会場
+
+### 2016年2月27日
+
+* OWASP DAY 2016 Springリモート参加
+* 場所：株式会社Eyes, JAPAN
+
+### 2016年2月27日
+
+* 日本では、関西、仙台に続き3番目のローカルチャプターとして設立。
