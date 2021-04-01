@@ -5,7 +5,7 @@ title: OWASP Fukushima
 tags: fukushima
 level: 0
 
-region: Asia/Pacific
+region: Asia
 
 ---
 
@@ -13,7 +13,7 @@ region: Asia/Pacific
 
 OWASP Fukushimaでは、社会人だけではなく学生のための啓蒙を行なっています。学生の目線からWebセキュリティを考えたり、教育、インターン、コンファレンスのボランティア、学校での啓蒙活動、また会津大学発のベンチャー企業などの協力を得て、提言などにつながっていければと考えています。
 
-## 過去のイベント
+## これまでのイベント
 
 ### 2020年2月18日
 
