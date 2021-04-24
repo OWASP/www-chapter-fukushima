@@ -15,6 +15,7 @@ OWASP Fukushimaでは、社会人だけではなく学生のための啓蒙を�
 
 -----
 
+<!--
 ## 開催予定のイベント
 
 ### 2021年4月24日
@@ -23,8 +24,14 @@ OWASP Fukushimaでは、社会人だけではなく学生のための啓蒙を�
 * オンライン開催
 
 -----
+-->
 
 ## これまでのイベント
+
+### 2021年4月24日
+
+* [OWASP FUKUSHIMA「Privacy x Security by Designを考える」](https://owasp-fukushima.connpass.com/event/209957)
+* オンライン開催
 
 ### 2020年2月18日
 
