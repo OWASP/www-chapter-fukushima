@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Fukushima
 tags: fukushima
 level: 0
-
+meeting-platform: connpass
 region: Asia
 
 ---
