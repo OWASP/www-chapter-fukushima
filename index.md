@@ -5,6 +5,7 @@ title: OWASP Fukushima
 tags: fukushima
 level: 0
 meeting-platform: connpass
+country: Japan
 region: Asia
 
 ---
