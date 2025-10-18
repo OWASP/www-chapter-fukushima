@@ -1,0 +1,24 @@
+leaders:
+  - name: Jun Yamadera
+    email: jun.yamadera@owasp.org
+  - name: Junichi Fujinuma
+    email: junichi.fujinuma@owasp.org
+  - name: Kensuke Shimizu
+    email: kensuke.shimizu@owasp.org
+location:
+  country: Japan
+  country_code: JP
+  region: Fukushima Prefecture
+  city: Fukushima City
+  latitude: 37.760777
+  longitude: 140.4745807
+name: OWASP Fukushima
+repositories:
+  - name: www-chapter-fukushima
+    url: https://github.com/OWASP/www-chapter-fukushima
+    description: OWASP Foundation Web Repository
+tags:
+  - fukushima
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-fukushima
